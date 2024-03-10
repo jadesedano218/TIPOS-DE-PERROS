@@ -1,0 +1,39 @@
+<html>
+ <head>
+<title> Scottish Terrier </title>
+ </head>
+<body bgcolor="#F37474">
+
+	<center>
+<font face="Georgia" size=8 color="blue">
+	SCOTTISH TERRIER
+</font>
+</center>
+
+<hr>
+
+<center>
+<img src="terrier.jpg"  width=200   height=200>
+</center>
+
+
+<center>
+<font face="Georgia" size=8 color="black">
+La raza proviene de las Tierras Altas de Escocia,<br>
+ y su apariencia actual se debe a los cruces de <br>
+los criadores de la región de Aberdeen.<br>
+Esta raza de perros es propensa a tener <br>
+ varios tipos de enfermedades por los <br>
+cambios morfológicos que han ido experimentando, <br>
+como por ejemplo problemas de columna, o la enfermedad <br>
+de Von Willebrand entre otras.
+
+ 
+</font>
+</center>
+
+
+
+
+</body>
+</html>
